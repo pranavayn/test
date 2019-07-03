@@ -1,12 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-              
-
-
-
-
-
 
 N = 5
 menMeans   = (20, 35, 30, 35, 27)
